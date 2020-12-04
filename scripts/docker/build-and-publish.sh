@@ -4,7 +4,6 @@ REGION=eu-west-1
 AWS_ACCOUNT_ID=714652663732
 PROFILE=default
 #PROFILE=personalAccount
-DOCKER_APP_NAME=macbook-cart-api
 
 DOCKER_APP_REPOSITORY=macbook-cart-api
 AWS_DOCKER_REGISTRY_URL=$AWS_ACCOUNT_ID.dkr.ecr.$REGION.amazonaws.com
