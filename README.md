@@ -77,5 +77,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Commands
 
 cd "C:\Program Files\Docker\Docker" DockerCli.exe -SwitchDaemon
-docker build -f ./Dockerfiles/Dockerfile -t macbook-cart-api:latest .
+docker build -f ./Dockerfile -t macbook-cart-api:latest .
 docker images
